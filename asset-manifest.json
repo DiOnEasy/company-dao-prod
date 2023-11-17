@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c20450df.css",
+    "main.js": "/static/js/main.e6db7cf3.js",
+    "static/media/SFCompactDisplay-Light.otf": "/static/media/SFCompactDisplay-Light.ddd939ed3b12cd979be6.otf",
+    "index.html": "/index.html",
+    "static/media/dotted-bg.svg": "/static/media/dotted-bg.191a936ea726c6a71ba4.svg",
+    "main.c20450df.css.map": "/static/css/main.c20450df.css.map",
+    "main.e6db7cf3.js.map": "/static/js/main.e6db7cf3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c20450df.css",
+    "static/js/main.e6db7cf3.js"
+  ]
+}
